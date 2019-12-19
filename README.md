@@ -1,2 +1,3 @@
 # hello-world
-learning how to us GitHub
+
+Um I really wish I had learned to actually do this sooner, but hey, better late than never am I right?!
